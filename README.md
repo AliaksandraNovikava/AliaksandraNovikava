@@ -9,7 +9,7 @@ Currently student at neue fische
 ## My work experience:
 I have three years experience as a web designer for wordpress websites.
 
-## Languages and Tools:
+## Currently learning:
 
 - HTML
 - CSS
