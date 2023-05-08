@@ -4,7 +4,7 @@ I'm Aliaksandra Novikava from Dortmund (Germany).
 
 Aspiring Web Developer.
 
-Currently student at neue fische
+Currently student at neue fische.
 
 ![](https://images.pexels.com/photos/273886/pexels-photo-273886.jpeg?auto=compress&cs=tinysrgb&w=800)
 ## My work experience:
