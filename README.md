@@ -23,4 +23,4 @@ Currently student at _neue fische_.
 
 ## Capstone project - AimHigh App:
 
-Check out the demo for my capstone project: [AimHigh](https://github.com/AliaksandraNovikava/AimHighhttps://aim-high.vercel.app/)
+Check out the demo for my capstone project: [AimHigh](https://github.com/AliaksandraNovikava/AimHigh)
