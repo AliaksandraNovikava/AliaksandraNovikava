@@ -21,10 +21,10 @@
 </div>
 
 
-## neuefische: capstone project - "AimHigh App":
+## neue fische: capstone project - "AimHigh App":
 
 Check out the demo for my capstone project: [AimHigh](https://github.com/AliaksandraNovikava/AimHigh)
 
 ## coursera: Meta - "Principles of UX/UI Design":
 
-Final project assesment, created in Figma: [Reserve a table feature](https://www.figma.com/file/EogPxFZ9UZQHZTL6efOMp1/reserve-a-table-feature?type=design&node-id=0-1&mode=design)
+Final project assessment, created in Figma: [Reserve a table feature](https://www.figma.com/file/EogPxFZ9UZQHZTL6efOMp1/reserve-a-table-feature?type=design&node-id=0-1&mode=design)
