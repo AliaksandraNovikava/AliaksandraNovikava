@@ -24,6 +24,7 @@
 ## neue fische: capstone project - "AimHigh App":
 
 Check out the demo for my capstone project: [AimHigh](https://github.com/AliaksandraNovikava/AimHigh)
+Check out the prototype in Figma: [AimHigh App Prototype](https://www.figma.com/file/TyNlG3VcZEBYxo1MBJQZCb/AimHigh-App?type=design&node-id=0-1&mode=design)
 
 ## coursera: Meta - "Principles of UX/UI Design":
 
